@@ -5,6 +5,10 @@
 #include <cassert>
 #include <iostream>
 
+#define _CRTDBG_MAP_ALLOC
+#include <stdlib.h>
+#include <crtdbg.h>
+
 using namespace std;
 namespace fund = ufl_cap4053::fundamentals;
 
@@ -17,6 +21,9 @@ void printCString(char const* testString);
 
 int main()
 {
+    _CrtSetReportMode(_CRT_WARN, _CRTDBG_MODE_DEBUG);
+    _CrtSetDbgFlag(_CRTDBG_ALLOC_MEM_DF | _CRTDBG_LEAK_CHECK_DF);
+    
     // Get ready.
     fund::LinkedList<string> valueList;
     fund::LinkedList<char const*> pointerList;

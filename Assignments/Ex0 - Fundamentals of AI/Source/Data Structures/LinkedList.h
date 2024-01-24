@@ -56,6 +56,9 @@ namespace ufl_cap4053 { namespace fundamentals {
 			head = nullptr;
 			back = nullptr;
 		}
+		~LinkedList<T>() {
+			clear();
+		}
 		Iterator<T> begin() const {
 			return Iterator<T>(head);
 		}
