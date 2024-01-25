@@ -1,2 +1,6 @@
-﻿  Game.cpp
+﻿  Behavior.cpp
+  Agent.cpp
+  Behaviors.cpp
+  Game.cpp
+  Generating Code...
   WumpusWorld.vcxproj -> C:\Users\maxep\source\repos\CAP4053_work\Assignments\Ex0 - Fundamentals of AI\Source\x64\Debug\WumpusWorld.exe

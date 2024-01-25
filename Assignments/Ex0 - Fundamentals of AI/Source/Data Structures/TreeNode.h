@@ -10,7 +10,7 @@ namespace ufl_cap4053 { namespace fundamentals {
 		T data;
 	public:
 		TreeNode<T>() {
-
+			data = nullptr;
 		}
 		TreeNode<T>(T element) {
 			data = element;
