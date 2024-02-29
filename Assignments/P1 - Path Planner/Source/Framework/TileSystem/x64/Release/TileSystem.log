@@ -1,0 +1,8 @@
+﻿  Tile.cpp
+  TileMap.cpp
+     Creating library C:\Users\maxep\source\repos\CAP4053_work\Assignments\P1 - Path Planner\Source\x64\Release\TileSystem.lib and object C:\Users\maxep\source\repos\CAP4053_work\Assignments\P1 - Path Planner\Source\x64\Release\TileSystem.exp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 95 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  TileSystem.vcxproj -> C:\Users\maxep\source\repos\CAP4053_work\Assignments\P1 - Path Planner\Source\x64\Release\TileSystem.dll

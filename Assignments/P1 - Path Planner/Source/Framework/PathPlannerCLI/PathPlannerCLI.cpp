@@ -17,6 +17,10 @@
 #include "../TileSystem/TileMapUtility.h"
 #include "../../PathSearch/PathSearch.h"
 
+#define _CRTDBG_MAP_ALLOC
+#include<stdlib.h>
+#include <crtdbg.h>
+
 using namespace ufl_cap4053;
 using namespace ufl_cap4053::searches;
 
@@ -29,6 +33,10 @@ std::string caseTest(int startR, int startC, int goalR, int goalC, TileMap& tile
 // Determine the test type and run it.
 int main(int argc, char* argv[])
 {
+
+	_CrtSetReportMode(_CRT_WARN, _CRTDBG_MODE_DEBUG);
+	_CrtSetDbgFlag(_CRTDBG_ALLOC_MEM_DF | _CRTDBG_LEAK_CHECK_DF);
+
 	TileMap tileMap;
 	int repetitions = DEFAULT_REPETITIONS;
 

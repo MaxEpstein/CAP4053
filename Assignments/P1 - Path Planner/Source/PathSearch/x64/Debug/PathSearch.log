@@ -1,0 +1,6 @@
+﻿  PathSearch.cpp
+C:\Users\maxep\source\repos\CAP4053_work\Assignments\P1 - Path Planner\Source\PathSearch\PathSearch.cpp(19,16): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\maxep\source\repos\CAP4053_work\Assignments\P1 - Path Planner\Source\PathSearch\PathSearch.cpp(182,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\maxep\source\repos\CAP4053_work\Assignments\P1 - Path Planner\Source\PathSearch\PathSearch.cpp(230,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+     Creating library C:\Users\maxep\source\repos\CAP4053_work\Assignments\P1 - Path Planner\Source\x64\Debug\PathSearch.lib and object C:\Users\maxep\source\repos\CAP4053_work\Assignments\P1 - Path Planner\Source\x64\Debug\PathSearch.exp
+  PathSearch.vcxproj -> C:\Users\maxep\source\repos\CAP4053_work\Assignments\P1 - Path Planner\Source\x64\Debug\PathSearch.dll

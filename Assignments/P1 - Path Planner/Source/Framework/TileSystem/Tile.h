@@ -56,14 +56,13 @@ namespace ufl_cap4053 {
 
 			return ((int)first << 24) | ((int)second << 16) | ((int)third << 8) | (int)fourth;
 		}
-
+	public:
 		inline void resetDrawing()
 		{
 			marker_color = outline_color = fill_color = 0;
 			lines.clear();
 		}
 
-	public:
 		//! \brief Returns the terrain weight of this tile, or zero if this tile is impassable.
 		inline unsigned char getWeight() const
 		{

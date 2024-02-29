@@ -2,10 +2,14 @@
   "ExpandedNodes": [
     "",
     "\\Assignments",
-    "\\Assignments\\Ex0 - Fundamentals of AI",
-    "\\Assignments\\Ex0 - Fundamentals of AI\\Source",
-    "\\Assignments\\Ex0 - Fundamentals of AI\\Source\\Data Structures"
+    "\\Assignments\\P1 - Path Planner",
+    "\\Assignments\\P1 - Path Planner\\Source",
+    "\\Assignments\\P1 - Path Planner\\Source\\Framework",
+    "\\Assignments\\P1 - Path Planner\\Source\\Framework\\PathPlannerApp",
+    "\\Assignments\\P1 - Path Planner\\Source\\Framework\\PathPlannerCLI",
+    "\\Assignments\\P1 - Path Planner\\Source\\Framework\\TileSystem",
+    "\\Assignments\\P1 - Path Planner\\Source\\PathSearch"
   ],
-  "SelectedNode": "\\Assignments\\Ex0 - Fundamentals of AI\\Source\\Data Structures\\TreeNode.h",
+  "SelectedNode": "\\Assignments\\P1 - Path Planner\\Source\\PathSearch\\PathSearch.cpp",
   "PreviewInSolutionExplorer": false
 }
