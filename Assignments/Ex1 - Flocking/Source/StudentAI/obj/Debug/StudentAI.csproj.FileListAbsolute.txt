@@ -1,0 +1,9 @@
+C:\Users\maxep\source\repos\CAP4053_work\Assignments\Ex1 - Flocking\Source\StudentAI\bin\Debug\SudentAI.dll
+C:\Users\maxep\source\repos\CAP4053_work\Assignments\Ex1 - Flocking\Source\StudentAI\bin\Debug\SudentAI.pdb
+C:\Users\maxep\source\repos\CAP4053_work\Assignments\Ex1 - Flocking\Source\StudentAI\bin\Debug\CoreAI.dll
+C:\Users\maxep\source\repos\CAP4053_work\Assignments\Ex1 - Flocking\Source\StudentAI\bin\Debug\CoreAI.pdb
+C:\Users\maxep\source\repos\CAP4053_work\Assignments\Ex1 - Flocking\Source\StudentAI\obj\Debug\StudentAI.csproj.AssemblyReference.cache
+C:\Users\maxep\source\repos\CAP4053_work\Assignments\Ex1 - Flocking\Source\StudentAI\obj\Debug\StudentAI.csproj.CoreCompileInputs.cache
+C:\Users\maxep\source\repos\CAP4053_work\Assignments\Ex1 - Flocking\Source\StudentAI\obj\Debug\StudentAI.csproj.Up2Date
+C:\Users\maxep\source\repos\CAP4053_work\Assignments\Ex1 - Flocking\Source\StudentAI\obj\Debug\SudentAI.dll
+C:\Users\maxep\source\repos\CAP4053_work\Assignments\Ex1 - Flocking\Source\StudentAI\obj\Debug\SudentAI.pdb

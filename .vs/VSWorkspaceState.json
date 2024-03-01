@@ -2,14 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\Assignments",
-    "\\Assignments\\P1 - Path Planner",
-    "\\Assignments\\P1 - Path Planner\\Source",
-    "\\Assignments\\P1 - Path Planner\\Source\\Framework",
-    "\\Assignments\\P1 - Path Planner\\Source\\Framework\\PathPlannerApp",
-    "\\Assignments\\P1 - Path Planner\\Source\\Framework\\PathPlannerCLI",
-    "\\Assignments\\P1 - Path Planner\\Source\\Framework\\TileSystem",
-    "\\Assignments\\P1 - Path Planner\\Source\\PathSearch"
+    "\\Assignments\\Ex1 - Flocking",
+    "\\Assignments\\Ex1 - Flocking\\Source",
+    "\\Assignments\\Ex1 - Flocking\\Source\\StudentAI"
   ],
-  "SelectedNode": "\\Assignments\\P1 - Path Planner\\Source\\PathSearch\\PathSearch.cpp",
+  "SelectedNode": "\\Assignments\\Ex1 - Flocking\\Source\\Flocking.sln",
   "PreviewInSolutionExplorer": false
 }

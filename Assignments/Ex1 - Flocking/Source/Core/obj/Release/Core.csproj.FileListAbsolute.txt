@@ -1,0 +1,6 @@
+C:\Users\maxep\source\repos\CAP4053_work\Assignments\Ex1 - Flocking\Source\Core\bin\Release\CoreAI.dll
+C:\Users\maxep\source\repos\CAP4053_work\Assignments\Ex1 - Flocking\Source\Core\bin\Release\CoreAI.pdb
+C:\Users\maxep\source\repos\CAP4053_work\Assignments\Ex1 - Flocking\Source\Core\obj\Release\Core.csproj.AssemblyReference.cache
+C:\Users\maxep\source\repos\CAP4053_work\Assignments\Ex1 - Flocking\Source\Core\obj\Release\Core.csproj.CoreCompileInputs.cache
+C:\Users\maxep\source\repos\CAP4053_work\Assignments\Ex1 - Flocking\Source\Core\obj\Release\CoreAI.dll
+C:\Users\maxep\source\repos\CAP4053_work\Assignments\Ex1 - Flocking\Source\Core\obj\Release\CoreAI.pdb
