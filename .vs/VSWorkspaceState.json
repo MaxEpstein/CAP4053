@@ -2,10 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\Assignments",
-    "\\Assignments\\Ex1 - Flocking",
     "\\Assignments\\Ex1 - Flocking\\Source",
-    "\\Assignments\\Ex1 - Flocking\\Source\\StudentAI"
+    "\\Assignments\\Ex1 - Flocking\\Source\\StudentAI",
+    "\\Assignments\\Ex2 - Reversi",
+    "\\Assignments\\Ex2 - Reversi\\Source"
   ],
-  "SelectedNode": "\\Assignments\\Ex1 - Flocking\\Source\\Flocking.sln",
+  "SelectedNode": "\\Assignments\\Ex2 - Reversi\\Source\\Reversi.sln",
   "PreviewInSolutionExplorer": false
 }
